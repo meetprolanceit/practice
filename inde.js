@@ -6,3 +6,4 @@ const hellWorld = () => {
 };
 const a = 5;
 console.log(a);
+console.log("hello what are you doing?")
